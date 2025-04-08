@@ -1,0 +1,276 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.inside-container {
+    background-image:url(image.html/1.jpg);
+    background-blend-mode: lighten;
+    height: auto;
+    background-repeat: no-repeat;
+    /* background-size: 50%,50%; */
+    /* text-align: center; */
+    padding-bottom: 20%;
+}
+
+#small-container {
+    font-size: x-large;
+    padding: 2%;
+    background-color: rgb(102, 196, 114);
+    color: white;
+    text-align: center;
+    
+}
+
+.navbar {
+    display: flex;
+    /* text-align: center; */
+
+}
+.navbar h2{
+    font-size: 40px;
+color: white;
+}
+
+.navigation {
+    margin-top: 2%;
+    margin-left: 5%;
+   display: flex;
+   gap: 40%;
+
+}
+.navigation a{
+    font-size: xx-large;
+    text-decoration: none;
+    color: white;
+}
+.navbar i{
+    position: absolute;
+    right: 2%;
+    top:18%;
+    font-size: xx-large;
+}
+
+#contact {
+    border: none;
+    padding: 25px;
+    background-color: rgb(202, 196, 188);
+    color: white;
+    border-radius: 7px;
+    font-size: x-large;
+    width: 15%;
+}
+
+.name {
+    margin-top: 10%;
+    color: white;
+     text-align: center;
+font-size: xx-large;
+}
+.name h1{
+    font-size: 90px;
+}
+
+#title {
+    color: white;
+}
+
+#subtitle {
+    color: white;
+}
+
+.small-container2 {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    padding: 1%;
+    text-align: center;
+   
+
+}
+
+.information {
+    display: flex;
+     gap: 20%;
+    margin: 5%;
+}
+.image2 img{
+width:100%;
+}
+
+#title2 {
+    color: darkgreen;
+}
+
+#know-more {
+    border: 2px, solid;
+    padding: 20px;
+    background-color: forestgreen;
+}
+
+#contact-us {
+    border: 2px, solid;
+    border-color: black;
+    padding: 20px;
+}
+
+.inner-container2 {
+    display: flex;
+    border: 2px, solid;
+    background-color: rgb(163, 212, 212);
+    padding: 5px;
+    top: 50%;
+}
+
+.cup {
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.nike {
+    display: flex;
+}
+
+.handbox {
+    display: flex;
+}
+
+.earpad {
+    display: flex;
+}
+
+.information2 {
+    text-align: center;
+}
+
+.images{
+    margin-left: 15%;
+    text-align: center;
+  display: flex; 
+  gap: 7%;
+width: 100%;
+}
+.images img{
+height: 90%;
+}
+
+.discription{
+margin-top: 15%;
+}
+   
+
+.image3 img{
+    width: 120%;
+    margin-right: 10%;
+}
+
+
+
+.image-discription {
+    margin-top: 5%;
+    display: flex;
+    margin-left: 20%;
+}
+ 
+
+.image6 img{
+   height:100% ;
+   margin-top: 15%;
+   width: 200%;
+   margin-left: 40px;
+}
+.brands{
+display: flex;
+justify-content: space-between;
+gap: 30px;
+margin-top: 5%;
+margin: 10%;
+
+}
+.brands img{
+    width: 100px;
+}
+
+.information4{
+    text-align: center;
+}
+.img{
+    display:flex;
+    /* justify-content: space-between; */
+    gap: 22%;
+    
+}
+.image7 img{
+    width: 300%;
+    height: 60%;
+}
+.image8 img{
+    /* position: relative; */
+    width: 220%;
+    
+}
+.image9 img{
+    width: 230%;
+}
+.image10 img{
+    width: 50%;
+    height: 50%;
+    margin-left: 20%;
+    margin-top: -15%;
+
+}
+.container2 img{
+    width: 70%;
+    /* height: 20%; */
+    margin-left: 15%;
+    position: absolute;
+}
+.contact-block{
+    display: flex;
+    gap: 1%;
+    position: relative;
+    margin-top: 7%;
+    border: 2px;
+    background-color: white;
+    padding: 5%;
+    border-radius: 25px;
+    left: 30%;
+    width: 25%;
+    
+}
+.contact-block h3{
+    font-size: xx-large;
+}
+.icons img{
+    display: block;
+    width: 8%;
+    margin: 2%;
+    margin-top: 25%;
+
+
+}
+.contact-information{
+    text-align: center;
+    
+}
+.address img{
+width: 3%;
+}
+.table img{
+    height: 10%;
+    width: 10%;
+
+}
+.table{
+    background-color: rgb(61, 60, 60);
+    margin-top: 15%;
+    display: flex;
+    color: white;
+    padding: 8%;
+}
+.phone-call{
+    display: flex;
+}
+/* .phone{
+    display: flex;
+    justify-content: space-between;
+} */
